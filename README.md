@@ -9,7 +9,7 @@
 <h4><dd> Produsul nostru este similar cu cele expuse prin prisma redarii de continut al artiatilor, insa se diferentiază prin faptul ca beneficiaza de  rapiditate in oferirea  informatiilor  dorite de utilizator.</dd></h4>
 <br><br>
 <h5>Descrierea Site-ului</h5>
-![alt text](https://github.com/bdMirela/Tehnologi_web-Faza2/blob/master/aRTsTUD.png "Interface")
-  <br><br>
+![alt text](https://github.com/bdMirela/Tehnologi_web-Faza2/blob/master/aRTsTUD.png)
+<br><br>
 <h5>Identify Api Calls</h5>
-![alt text](https://github.com/bdMirela/Tehnologi_web-Faza2/blob/master/api.png "Ceva")
+![alt text](https://github.com/bdMirela/Tehnologi_web-Faza2/blob/master/api.png)
