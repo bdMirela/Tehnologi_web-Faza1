@@ -7,9 +7,12 @@
 <h4><dd> <em>Picarto.tv</em> este un produs care ofera posibilitatea de a urmari in timp real ceea ce altii creaza, existand posibilitatea  de a dona pentru acea opera in functie de cat doreste utilizatorul.</dd></h4>
 <h4><dd> <em>Patreon.com</em> este tot un produs prin intermediul carora se pot vizualiza lucrari ale artistilor contra cost.</dd></h4>
 <h4><dd> Produsul nostru este similar cu cele expuse prin prisma redarii de continut al artiatilor, insa se diferentiază prin faptul ca beneficiaza de  rapiditate in oferirea  informatiilor  dorite de utilizator.</dd></h4>
-<br><br>
+# Mock-ups
 <h5>Descrierea Site-ului</h5>
-![alt text](https://github.com/bdMirela/Tehnologi_web-Faza2/blob/master/aRTsTUD.png)
-<br><br>
-<h5>Identify Api Calls</h5>
-![alt text](https://github.com/bdMirela/Tehnologi_web-Faza2/blob/master/api.png)
+![alt text](https://github.com/georgianabrailoiu/webtech-profile/blob/master/images/45227999_567981793637643_7356565562505297920_n.jpg "Interface")
+
+![alt text](https://github.com/georgianabrailoiu/webtech-profile/blob/master/images/45186793_2483953278497782_3167589267572523008_n.jpg)
+
+![alt text](https://github.com/georgianabrailoiu/webtech-profile/blob/master/images/45196168_532931310515882_2375688269892419584_n.jpg)
+
+![alt text](https://github.com/georgianabrailoiu/webtech-profile/blob/master/images/45066167_259943724704862_693528194854158336_n.jpg "CEVA" )
