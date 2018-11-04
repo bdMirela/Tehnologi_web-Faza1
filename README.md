@@ -11,5 +11,6 @@
 <h5>Descrierea Site-ului</h5>
 
 ![alt text](https://github.com/bdMirela/Tehnologi_web-Faza2/blob/master/aRTsTUD.png)
-<br>
+<br><nr>
+<h5>IDENTIFY API CALLS</h5>
 ![alt text](https://github.com/bdMirela/Tehnologi_web-Faza2/blob/master/api.png)
