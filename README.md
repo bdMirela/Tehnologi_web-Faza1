@@ -10,6 +10,6 @@
 # Mock-ups
 <h5>Descrierea Site-ului</h5>
 
-![alt text]https://github.com/bdMirela/Tehnologi_web-Faza2/blob/master/aRTsTUD.png)
+![alt text](https://github.com/bdMirela/Tehnologi_web-Faza2/blob/master/aRTsTUD.png)
 
 ![alt text](https://github.com/bdMirela/Tehnologi_web-Faza2/blob/master/api.png)
