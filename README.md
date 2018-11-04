@@ -9,10 +9,7 @@
 <h4><dd> Produsul nostru este similar cu cele expuse prin prisma redarii de continut al artiatilor, insa se diferentiază prin faptul ca beneficiaza de  rapiditate in oferirea  informatiilor  dorite de utilizator.</dd></h4>
 # Mock-ups
 <h5>Descrierea Site-ului</h5>
-![alt text](https://github.com/georgianabrailoiu/webtech-profile/blob/master/images/45227999_567981793637643_7356565562505297920_n.jpg "Interface")
 
-![alt text](https://github.com/georgianabrailoiu/webtech-profile/blob/master/images/45186793_2483953278497782_3167589267572523008_n.jpg)
+![alt text]https://github.com/bdMirela/Tehnologi_web-Faza2/blob/master/aRTsTUD.png)
 
-![alt text](https://github.com/georgianabrailoiu/webtech-profile/blob/master/images/45196168_532931310515882_2375688269892419584_n.jpg)
-
-![alt text](https://github.com/georgianabrailoiu/webtech-profile/blob/master/images/45066167_259943724704862_693528194854158336_n.jpg "CEVA" )
+![alt text](https://github.com/bdMirela/Tehnologi_web-Faza2/blob/master/api.png)
